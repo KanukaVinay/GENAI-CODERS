@@ -1,0 +1,5 @@
+{
+    "whisper_model": "openai/whisper-large-v3",
+    "save_recordings": true,
+    "continuous_mode": false
+}
